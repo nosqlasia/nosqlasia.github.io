@@ -10,12 +10,12 @@
   <title>NoSQL Asia &middot; Your Name</title>
 
   
-  <link rel="stylesheet" href="http://nosqlasia.org/css/poole.css">
-  <link rel="stylesheet" href="http://nosqlasia.org/css/hyde.css">
-  <link rel="stylesheet" href="http://nosqlasia.org/css/poole-overrides.css">
-  <link rel="stylesheet" href="http://nosqlasia.org/css/hyde-overrides.css">
-  <link rel="stylesheet" href="http://nosqlasia.org/css/hyde-x.css">
-  <link rel="stylesheet" href="http://nosqlasia.org/css/highlight/sunburst.css">
+  <link rel="stylesheet" href="http://localhost:1313/css/poole.css">
+  <link rel="stylesheet" href="http://localhost:1313/css/hyde.css">
+  <link rel="stylesheet" href="http://localhost:1313/css/poole-overrides.css">
+  <link rel="stylesheet" href="http://localhost:1313/css/hyde-overrides.css">
+  <link rel="stylesheet" href="http://localhost:1313/css/hyde-x.css">
+  <link rel="stylesheet" href="http://localhost:1313/css/highlight/sunburst.css">
   <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=PT+Sans:400,400italic,700|Abril+Fatface">
 
   
@@ -23,7 +23,7 @@
   <link href="/favicon.png" rel="icon">
 
   
-  <link href="http://nosqlasia.org/index.xml/" rel="alternate" type="application/rss+xml" title="NoSQL Asia &middot; Your Name" />
+  <link href="http://localhost:1313/index.xml/" rel="alternate" type="application/rss+xml" title="NoSQL Asia &middot; Your Name" />
 
   <meta name="description" content="Your default page description">
   <meta name="keywords" content="your,default,page,keywords">
@@ -39,7 +39,7 @@
     </div>
 
     <ul class="sidebar-nav">
-      <li class="sidebar-nav-item"><a href="http://nosqlasia.org/">Blog</a></li>
+      <li class="sidebar-nav-item"><a href="http://localhost:1313/">Blog</a></li>
       
     </ul>
 
@@ -51,7 +51,7 @@
       
     </ul>
 
-    <p>Copyright &copy; 2014 <a href="http://nosqlasia.org/license">License</a><br/>
+    <p>Copyright &copy; 2014 <a href="http://localhost:1313/license">License</a><br/>
        Powered by <a href="http://hugo.spf13.com">Hugo</a> and <a href="https://github.com/zyro/hyde-x">Hyde-X</a></p>
   </div>
 </div>
@@ -61,19 +61,29 @@
     
     <div class="post">
       <h1 class="post-title">
-        <a href="http://nosqlasia.org/blog/1st-nosql-asia-event-in-malaysia/">1st NoSQL Asia Event in Malaysia</a>
+        <a href="http://localhost:1313/blog/starting-2015-with-a-spectacular-meetup/">Starting 2015 With a Spectacular Meetup</a>
+      </h1>
+      <span class="post-date">Dec 17, 2014 &middot; 3 minute read
+      </span>
+      <p></p>
+      <a href="http://localhost:1313/blog/starting-2015-with-a-spectacular-meetup/">Read On &rarr;</a>
+    </div>
+    
+    <div class="post">
+      <h1 class="post-title">
+        <a href="http://localhost:1313/blog/1st-nosql-asia-event-in-malaysia/">1st NoSQL Asia Event in Malaysia</a>
       </h1>
       <span class="post-date">Apr 25, 2013 &middot; 2 minute read
       </span>
       <p></p>
-      <a href="http://nosqlasia.org/blog/1st-nosql-asia-event-in-malaysia/">Read On &rarr;</a>
+      <a href="http://localhost:1313/blog/1st-nosql-asia-event-in-malaysia/">Read On &rarr;</a>
     </div>
     
   </div>
 </div>
 
 
-<script src="http://nosqlasia.org/js/highlight.pack.js"></script>
+<script src="http://localhost:1313/js/highlight.pack.js"></script>
 <script>hljs.initHighlightingOnLoad();</script>
 
 <script>
@@ -83,5 +93,8 @@
   s.parentNode.insertBefore(g,s)}(document,'script'));
 </script>
 
-</body>
+<script>document.write('<script src="http://'
+        + (location.host || 'localhost').split(':')[0]
+		+ ':1313/livereload.js?mindelay=10"></'
+        + 'script>')</script></body>
 </html>
