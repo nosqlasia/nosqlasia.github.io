@@ -15,7 +15,7 @@ hugo -t hyde-x
 
 # Add the CNAME
 touch public/CNAME
-echo "life.beyondrails.com" > public/CNAME
+echo "nosqlasia.org" > public/CNAME
 
 # Add changes to git.
 git add -A
