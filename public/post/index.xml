@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+      <title>Posts on NoSQL Asia </title>
+      <generator uri="https://hugo.spf13.com">Hugo</generator>
+    <link>http://localhost:1313/post/index.xml/</link>
+    <language>en-us</language>
+    <author>Your Name</author>
+    
+    <updated>Thu, 25 Apr 2013 00:00:00 UTC</updated>
+    
+    <item>
+      <title>1st NoSQL Asia Event in Malaysia</title>
+      <link>http://localhost:1313/blog/1st-nosql-asia-event-in-malaysia/</link>
+      <pubDate>Thu, 25 Apr 2013 00:00:00 UTC</pubDate>
+      <author>Your Name</author>
+      <guid>http://localhost:1313/blog/1st-nosql-asia-event-in-malaysia/</guid>
+      <description>
+
+&lt;p&gt;Would firstly like to thank all those that attended and made such a wonderful evening possible. Without you and your interest in life beyond SQL, we would not have been able to launch our community initiative in style. Your thirst for knowledge inspires us to do more! Let&amp;rsquo;s also take this opportunity to thank our generous sponsors (&lt;a href=&#34;http://geomash.com/&#34;&gt;GeoMash&lt;/a&gt;, &lt;a href=&#34;http://mindvalley.com/&#34;&gt;Mindvalley&lt;/a&gt;, &lt;a href=&#34;http://acunu.com/&#34;&gt;Acunu&lt;/a&gt; and &lt;a href=&#34;http://planyourwedding.my/&#34;&gt;Plan Your Wedding&lt;/a&gt;), without which, we would not have been able to have such fabulous food, not to mention buy prizes to bribe you into talking to us during the Q&amp;amp;A sessions!&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;/assets/img/nosql-kl/01/sponsors.png&#34; alt=&#34;sponsors&#34; /&gt;
+&lt;/p&gt;
+
+&lt;h2 id=&#34;toc_0&#34;&gt;So what went-down on that fateful night where history was made&amp;hellip;?&lt;/h2&gt;
+
+&lt;p&gt;We started the evening by first covering our official mission statement:&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;It is the mission of NoSQLasia.org to provide free access to NoSQL news, event placement, product announcements and service promotion for individuals, companies and organizations throughout South East Asia.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;I then gave a &lt;a href=&#34;http://martinfowler.com/&#34;&gt;Martin Fowler&lt;/a&gt; inspired introduction to NoSQL and set the stage for our three domain-specialists:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://twitter.com/rickardoberg&#34;&gt;Rickard Oberg&lt;/a&gt; from &lt;a href=&#34;http://neo4j.com/&#34;&gt;Neo4j&lt;/a&gt; Introduced Graphs&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://twitter.com/parasquid&#34;&gt;Tristan Gomez&lt;/a&gt; from &lt;a href=&#34;http://mindvalley.com/&#34;&gt;Mindvalley&lt;/a&gt; Introduced Aggregates&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://twitter.com/roguejs&#34;&gt;Ruben Tan&lt;/a&gt; Discussed Client-Side Storage&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;In order to entice the audience to participate during the Q&amp;amp;A sessions, we did a little experiment. We told everyone that with each question, we would add their name to a hat, and raffle of a rather swanky prize at the end of the evening. &amp;ldquo;How did that experiment go?&amp;rdquo; You may ask&amp;hellip; Let&amp;rsquo;s just say it&amp;rsquo;s the first time we had to bring the questions to an end in order to get on to the next presentation. The prize was a wifi-enabled 1TB hard-drive with media-playback functionality and was quite resentful when finally handing it over to the winner!&lt;/p&gt;
+
+&lt;p&gt;I&amp;rsquo;ve also attached a few photos and the presentations below - for more details and comments, please visit our &lt;a href=&#34;https://www.facebook.com/groups/nosqlkl/&#34;&gt;NoSQL KL Group&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
