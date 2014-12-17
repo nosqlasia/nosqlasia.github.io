@@ -3,7 +3,7 @@
   <channel>
       <title>Posts on NoSQL Asia </title>
       <generator uri="https://hugo.spf13.com">Hugo</generator>
-    <link>http://localhost:1313/post/index.xml/</link>
+    <link>http://nosqlasia.org/post/index.xml/</link>
     <language>en-us</language>
     <author>Your Name</author>
     
@@ -11,10 +11,10 @@
     
     <item>
       <title>1st NoSQL Asia Event in Malaysia</title>
-      <link>http://localhost:1313/blog/1st-nosql-asia-event-in-malaysia/</link>
+      <link>http://nosqlasia.org/blog/1st-nosql-asia-event-in-malaysia/</link>
       <pubDate>Thu, 25 Apr 2013 00:00:00 UTC</pubDate>
       <author>Your Name</author>
-      <guid>http://localhost:1313/blog/1st-nosql-asia-event-in-malaysia/</guid>
+      <guid>http://nosqlasia.org/blog/1st-nosql-asia-event-in-malaysia/</guid>
       <description>
 
 &lt;p&gt;Would firstly like to thank all those that attended and made such a wonderful evening possible. Without you and your interest in life beyond SQL, we would not have been able to launch our community initiative in style. Your thirst for knowledge inspires us to do more! Let&amp;rsquo;s also take this opportunity to thank our generous sponsors (&lt;a href=&#34;http://geomash.com/&#34;&gt;GeoMash&lt;/a&gt;, &lt;a href=&#34;http://mindvalley.com/&#34;&gt;Mindvalley&lt;/a&gt;, &lt;a href=&#34;http://acunu.com/&#34;&gt;Acunu&lt;/a&gt; and &lt;a href=&#34;http://planyourwedding.my/&#34;&gt;Plan Your Wedding&lt;/a&gt;), without which, we would not have been able to have such fabulous food, not to mention buy prizes to bribe you into talking to us during the Q&amp;amp;A sessions!&lt;/p&gt;
