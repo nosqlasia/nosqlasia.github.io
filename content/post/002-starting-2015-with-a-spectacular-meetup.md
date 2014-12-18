@@ -3,7 +3,7 @@ date: 2014-12-17
 title: Starting 2015 With a Spectacular Meetup
 ---
 
-It's been over a year since we had our last dedicated NoSQL meet-up, but they do say that the best things in life are worth the wait so are excited to announce our next event and tell you about where we've been and see ourselves going...
+It's been over a year since we had our [last dedicated NoSQL meet-up](../1st-nosql-asia-event-in-malaysia/), but they do say that the best things in life are worth the wait so are excited to announce our next event and tell you about where we've been and see ourselves going...
 
 <!--more-->
 
