@@ -5,6 +5,8 @@ title: Starting 2015 With a Spectacular Meetup
 
 It's been over a year since we had our last dedicated NoSQL meet-up, but they do say that the best things in life are worth the wait so are excited to announce our next event and tell you about where we've been and see ourselves going...
 
+<!--more-->
+
 We will be meeting again on January the 29th at the Mindvalley Hall of Awesomeness and are expecting a full-house thanks to the spectacular line-up we have prepared, which includes:
 
 * 19:00 to 19:45 - Networking and Pizza

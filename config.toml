@@ -5,7 +5,7 @@ languageCode = "en-us"
 MetaDataFormat = "yaml"
 
 [author]
-    name = "Your Name"
+    name = "NoSQL Asia"
 
 [permalinks]
     # Optional. Change the permalink format for the 'post' content type.
@@ -35,12 +35,12 @@ MetaDataFormat = "yaml"
     highlight = "sunburst"
 
     # Displays under the author name in the sidebar, keep it short.
-    tagline = "Your favourite quote or soundbite."
+    tagline = "Events and communities in South East Asia"
 
     # Metadata used to drive integrations.
     googleAuthorship = "Your Google+ profile ID"
     googleAnalytics = "Your Google Analytics tracking code"
-    gravatarHash = "MD5 hash of your Gravatar email address"
+    gravatarHash = "d0e16a7a5865cc10d8d9d22874ab9a85"
 
     # Sidebar social links, avoid enabling too many of these if possible.
     # These should be full URLs.

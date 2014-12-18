@@ -2,10 +2,11 @@
 date: 2013-04-25
 title: 1st NoSQL Asia Event in Malaysia
 ---
-
 Would firstly like to thank all those that attended and made such a wonderful evening possible. Without you and your interest in life beyond SQL, we would not have been able to launch our community initiative in style. Your thirst for knowledge inspires us to do more! Let's also take this opportunity to thank our generous sponsors ([GeoMash](http://geomash.com/), [Mindvalley](http://mindvalley.com/), [Acunu](http://acunu.com/) and [Plan Your Wedding](http://planyourwedding.my/)), without which, we would not have been able to have such fabulous food, not to mention buy prizes to bribe you into talking to us during the Q&A sessions!
 
 ![sponsors](/assets/img/nosql-kl/01/sponsors.png)
+
+<!--more-->
 
 ## So what went-down on that fateful night where history was made...?
 
