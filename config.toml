@@ -44,8 +44,8 @@ MetaDataFormat = "yaml"
 
     # Sidebar social links, avoid enabling too many of these if possible.
     # These should be full URLs.
-    github = ""
+    github = "https://github.com/nosqlasia/"
     linkedin = ""
     googleplus = ""
-    facebook = ""
+    facebook = "https://www.facebook.com/groups/nosqlkl/"
     twitter = ""
