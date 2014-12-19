@@ -57,7 +57,7 @@
 &lt;/blockquote&gt;
 
 &lt;pre&gt;
-  You can use the &lt;pre&gt; tag on your own too, and it renders
+  You can use the &amp;lt;pre&amp;gt; tag on your own too, and it renders
   as prformatted text. But some mods will be good as well
 &lt;/pre&gt;
 
