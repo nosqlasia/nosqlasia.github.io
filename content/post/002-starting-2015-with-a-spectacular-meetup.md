@@ -39,6 +39,11 @@ If not, how do we do that Vs a __blockquote__:
 
 > This should be blockquoted, but what does it look like?
 
+<pre>
+  You can use the <pre> tag on your own too, and it renders
+  as prformatted text. But some mods will be good as well
+</pre>
+
 May need to fix this with style tweaks of my own?
 
 DISCUSS THE EVENT ON FACEBOOK
