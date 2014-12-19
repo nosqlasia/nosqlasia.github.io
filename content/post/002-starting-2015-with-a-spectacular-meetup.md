@@ -29,4 +29,16 @@ As you may have noticed, we've also re-designed our website. This was originally
 
 We've popped-up here and there over the past year or so whilst helping with Big Data Week and hosting other cross-over events, but the question of long term value with the NoSQL Asia brand was always a question. That is, until recent discussions with the ever-expanding Big Data Malaysia community and their new organizational movements under the leadership of [Daniel](https://twitter.com/wioota), it became clear that there remained an interest and need for the NoSQL Asia group. As a result of that discussion and the possibility for new partnerships in the future, and renewed interest from the community in the possibility of an all day event, a few of us helping with the group decided to refocus our efforts on clarifying the value of the NoSQL Asia brand. For now, we want to ensure that we keep a better record of group activities within the region and content delivered at meetups or curated for relevance. What you see now is a temporary holding pattern whilst we better plan for the future, and look forward to sharing more about this at our up-coming meetup on January the 29th, 2015.
 
+Wanting to test `code` blocks Vs __pre__:
+
+```
+Is this a pre and does it use syntax highlighter?
+```
+
+If not, how do we do that Vs a __blockquote__:
+
+> This should be blockquoted, but what does it look like?
+
+May need to fix this with style tweaks of my own?
+
 DISCUSS THE EVENT ON FACEBOOK
