@@ -3,7 +3,7 @@
   <channel>
       <title>Recent Content on NoSQL Asia </title>
       <generator uri="https://hugo.spf13.com">Hugo</generator>
-    <link>http://nosqlasia.github.io/index.xml/</link>
+    <link>http://localhost:1313/index.xml/</link>
     <language>en-us</language>
     <author>NoSQL Asia</author>
     
@@ -11,10 +11,10 @@
     
     <item>
       <title>Starting 2015 With a Spectacular Meetup</title>
-      <link>http://nosqlasia.github.io/blog/starting-2015-with-a-spectacular-meetup/</link>
+      <link>http://localhost:1313/blog/starting-2015-with-a-spectacular-meetup/</link>
       <pubDate>Wed, 17 Dec 2014 00:00:00 UTC</pubDate>
       <author>NoSQL Asia</author>
-      <guid>http://nosqlasia.github.io/blog/starting-2015-with-a-spectacular-meetup/</guid>
+      <guid>http://localhost:1313/blog/starting-2015-with-a-spectacular-meetup/</guid>
       <description>&lt;p&gt;It&amp;rsquo;s been over a year since we had our &lt;a href=&#34;../1st-nosql-asia-event-in-malaysia/&#34;&gt;last dedicated NoSQL meet-up&lt;/a&gt;, but they do say that the best things in life are worth the wait so are excited to announce our next event and tell you about where we&amp;rsquo;ve been and see ourselves going&amp;hellip;&lt;/p&gt;
 
 &lt;p&gt;We will be meeting again on January the 29th at the Mindvalley Hall of Awesomeness and are expecting a full-house thanks to the spectacular line-up we have prepared, which includes:&lt;/p&gt;
@@ -51,10 +51,10 @@
     
     <item>
       <title>1st NoSQL Asia Event in Malaysia</title>
-      <link>http://nosqlasia.github.io/blog/1st-nosql-asia-event-in-malaysia/</link>
+      <link>http://localhost:1313/blog/1st-nosql-asia-event-in-malaysia/</link>
       <pubDate>Thu, 25 Apr 2013 00:00:00 UTC</pubDate>
       <author>NoSQL Asia</author>
-      <guid>http://nosqlasia.github.io/blog/1st-nosql-asia-event-in-malaysia/</guid>
+      <guid>http://localhost:1313/blog/1st-nosql-asia-event-in-malaysia/</guid>
       <description>
 
 &lt;p&gt;Would firstly like to thank all those that attended and made such a wonderful evening possible. Without you and your interest in life beyond SQL, we would not have been able to launch our community initiative in style. Your thirst for knowledge inspires us to do more! Let&amp;rsquo;s also take this opportunity to thank our generous sponsors (&lt;a href=&#34;http://geomash.com/&#34;&gt;GeoMash&lt;/a&gt;, &lt;a href=&#34;http://mindvalley.com/&#34;&gt;Mindvalley&lt;/a&gt;, &lt;a href=&#34;http://acunu.com/&#34;&gt;Acunu&lt;/a&gt; and &lt;a href=&#34;http://planyourwedding.my/&#34;&gt;Plan Your Wedding&lt;/a&gt;), without which, we would not have been able to have such fabulous food, not to mention buy prizes to bribe you into talking to us during the Q&amp;amp;A sessions!&lt;/p&gt;
