@@ -56,6 +56,11 @@
 &lt;p&gt;This should be blockquoted, but what does it look like?&lt;/p&gt;
 &lt;/blockquote&gt;
 
+&lt;pre&gt;
+  You can use the &lt;pre&gt; tag on your own too, and it renders
+  as prformatted text. But some mods will be good as well
+&lt;/pre&gt;
+
 &lt;p&gt;May need to fix this with style tweaks of my own?&lt;/p&gt;
 
 &lt;p&gt;DISCUSS THE EVENT ON FACEBOOK&lt;/p&gt;
