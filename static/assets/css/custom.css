@@ -1,3 +1,19 @@
 .container {
   max-width: 42em;
 }
+.sidebar-about img {
+  width: 40px !important;
+  height: 40px !important;
+  display: inline-block;
+  float: left;
+}
+.sidebar-about h1 {
+  font-family: "PT Sans",Helvetica,Arial,sans-serif;
+  float: left;
+  font-size: 1.5em;
+  margin: 2px 0 0 12px;
+}
+.sidebar-about .lead {
+  display: block;
+  clear: both;
+}
