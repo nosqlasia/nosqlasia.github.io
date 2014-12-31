@@ -1,6 +1,10 @@
 .container {
   max-width: 42em;
 }
+.sidebar-sticky {
+  top: 1em;
+  bottom: auto;
+}
 .sidebar-about img {
   width: 40px !important;
   height: 40px !important;
