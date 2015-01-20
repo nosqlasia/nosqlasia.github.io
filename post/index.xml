@@ -1,15 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on NoSQL Asia</title>
-    <link>http://nosqlasia.github.io/post/</link>
-    <description>Recent content in Posts on NoSQL Asia</description>
-    <generator>Hugo -- gohugo.io</generator>
+      <title>Posts on NoSQL Asia </title>
+      <generator uri="https://hugo.spf13.com">Hugo</generator>
+    <link>http://nosqlasia.github.io/post/index.xml/</link>
     <language>en-us</language>
     <author>NoSQL Asia</author>
     
-    <lastBuildDate>Wed, 17 Dec 2014 00:00:00 UTC</lastBuildDate>
-    <atom:link href="http://nosqlasia.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <updated>Wed, 17 Dec 2014 00:00:00 UTC</updated>
     
     <item>
       <title>NoSQL Asia Starts 2015 with a Full House in KL on January 29th</title>
@@ -66,7 +64,7 @@
 &lt;p&gt;&lt;img src=&#34;/assets/img/nosql-kl/01/sponsors.png&#34; alt=&#34;sponsors&#34; /&gt;
 &lt;/p&gt;
 
-&lt;h2 id=&#34;so-what-went-down-on-that-fateful-night-where-history-was-made:2fec7abcf0acefb7250e7f3e6939cd91&#34;&gt;So what went-down on that fateful night where history was made&amp;hellip;?&lt;/h2&gt;
+&lt;h2 id=&#34;toc_0&#34;&gt;So what went-down on that fateful night where history was made&amp;hellip;?&lt;/h2&gt;
 
 &lt;p&gt;We started the evening by first covering our official mission statement:&lt;/p&gt;
 
