@@ -1,13 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-      <title>Recent Content on NoSQL Asia </title>
-      <generator uri="https://hugo.spf13.com">Hugo</generator>
-    <link>http://nosqlasia.github.io/index.xml/</link>
+    <title>NoSQL Asia</title>
+    <link>http://nosqlasia.github.io/</link>
+    <description>Recent content on NoSQL Asia</description>
+    <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <author>NoSQL Asia</author>
     
-    <updated>Wed, 17 Dec 2014 00:00:00 UTC</updated>
+    <lastBuildDate>Wed, 17 Dec 2014 00:00:00 UTC</lastBuildDate>
+    <atom:link href="http://nosqlasia.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>NoSQL Asia Starts 2015 with a Full House in KL on January 29th</title>
@@ -15,23 +17,23 @@
       <pubDate>Wed, 17 Dec 2014 00:00:00 UTC</pubDate>
       <author>NoSQL Asia</author>
       <guid>http://nosqlasia.github.io/blog/nosql-asia-starts-2015-with-a-full-house-in-kl-on-january-29th/</guid>
-      <description>&lt;p&gt;It&amp;rsquo;s been over a year since we had our last dedicated NoSQL meet-up, and since they say that the best things in life are worth the wait, it&amp;rsquo;s once again proven true when looking at the line-up we have planned for January the 29th, 2015. We&amp;rsquo;ve also refocused our efforts on this site and can&amp;rsquo;t wait to share more excitment and enthusiasm for the community and new technological opportunities available at the Mindvalley Hall of Awesomeness later this month. &lt;strong&gt;Speaking of which, you&amp;rsquo;ll need to book quickly as we&amp;rsquo;re already nearing peak capacity and haven&amp;rsquo;t even published this blog post yet!&lt;/strong&gt;&lt;/p&gt;
+      <description>&lt;p&gt;It&amp;rsquo;s been over a year since we had our last dedicated NoSQL meet-up, and since they say that the best things in life are worth the wait, it&amp;rsquo;s once again proven true when looking at the line-up we have planned for January the 29th, 2015. &lt;strong&gt;Speaking of which, you&amp;rsquo;ll need to book quickly as we&amp;rsquo;re already nearing peak capacity and haven&amp;rsquo;t even published this blog post yet!&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;Our spectacular speakers and agenda for the evening includes:&lt;/p&gt;
 
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;19:00 to 19:45&lt;/strong&gt; - Networking and Pizza&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;19:45 to 20:00&lt;/strong&gt; - &lt;a href=&#34;https://twitter.com/parasquid&#34;&gt;Tristan Gomez&lt;/a&gt; (Mindvalley)&lt;br /&gt;An Introducing / Overview of NoSQL&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;19:45 to 20:00&lt;/strong&gt; - &lt;a href=&#34;https://twitter.com/parasquid&#34;&gt;Tristan Gomez&lt;/a&gt; (Mindvalley)&lt;br /&gt;An Introduction / Overview of NoSQL&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;20:00 to 20:30&lt;/strong&gt; - &lt;a href=&#34;https://twitter.com/mcascallares&#34;&gt;Matias Cascallares&lt;/a&gt; (MongoDB)&lt;br /&gt;Document Schemas and MongoDB Use-Cases&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;20:30 to 21:00&lt;/strong&gt; - &lt;a href=&#34;https://twitter.com/rickardoberg&#34;&gt;Rickard Oberg&lt;/a&gt; (Neo4j)&lt;br /&gt;Graph Database Use-Cases and Cypher Syntax&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;21:00 to 21:30&lt;/strong&gt; - &lt;a href=&#34;https://twitter.com/chrishampart&#34;&gt;Chris Hampartsoumian&lt;/a&gt; (Amazon)&lt;br /&gt;Introducing DynamoDB and Its Users&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;blockquote&gt;
-&lt;p&gt;Limited seating available - please book your place by visiting  &lt;a href=&#34;https://www.eventbrite.com/e/nosql-asia-presents-an-evening-with-nosql-tickets-15001711523&#34;&gt;Eventbrite&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.eventbrite.com/e/nosql-asia-presents-an-evening-with-nosql-tickets-15001711523&#34;&gt;&lt;strong&gt;Limited seating - please book your place by visiting  Eventbrite&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;With two international speakers coming-in from Singapore and two that reside here in Kuala Lumpur ready to talk about the technicalities and practical use-cases for NoSQL technology, we&amp;rsquo;ve had an overwhelming response to this event and in the process also seem to have found a sustainable way to provide quality content. Will share more on this at the event, which is shaping-up to be an awesome opportunity for those that have always relied on MySQL and similar databases for their web projects to see why so many developers are leaning towards different data types such as graphs, key-value stores or JSON documents.&lt;/p&gt;
+&lt;p&gt;With two international speakers coming-in from Singapore and two that reside here in Kuala Lumpur ready to talk about the technicalities and practical use-cases for NoSQL technology. This will be an awesome opportunity for those that have always relied on MySQL and similar databases for their web projects to see why so many developers are leaning towards different data types such as graphs, key-value stores or JSON documents.&lt;/p&gt;
 
 &lt;p&gt;More importantly, this will provide you with the opportunity to hear from people working on the core products they are promoting and give you the chance to network with other like-minded individuals that are using these technologies in production. It&amp;rsquo;s also a good place to grab a slice of pizza after work and hang-out in one of the most awesome meeting spaces in KL and learn more about the &lt;a href=&#34;http://www.projectrenaissance.com/&#34;&gt;Project Renaissance&lt;/a&gt; movement being managed by &lt;a href=&#34;http://mindvalley.com&#34;&gt;Mindvalley&lt;/a&gt;.&lt;/p&gt;
 
@@ -46,8 +48,10 @@
 &lt;p&gt;We&amp;rsquo;ve popped-up here and there over the past year or so whilst helping with Big Data Week and hosting other cross-over events, but the question of long term value with the NoSQL Asia brand was always a question. That is, until recent discussions with the ever-expanding Big Data Malaysia community, where it became clear that there remained an interest and need for the NoSQL Asia group. As a result of that discussion and the possibility for new partnerships in the future, and renewed interest from the community in the possibility of an all day event, a few of us helping with the group decided to refocus our efforts on clarifying the value of the NoSQL Asia brand. For now, we want to ensure that we keep a better record of group activities within the region and content delivered at meetups or curated for relevance. What you see now is a temporary holding pattern whilst we better plan for the future, and look forward to sharing more about this at our up-coming meetup on January the 29th, 2015.&lt;/p&gt;
 
 &lt;blockquote&gt;
-&lt;p&gt;Discuss the event on &lt;a href=&#34;https://www.facebook.com/events/1556753981209665/&#34;&gt;Facebook&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Discuss / share the event on &lt;a href=&#34;https://www.facebook.com/events/1556753981209665/&#34;&gt;Facebook&lt;/a&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
+
+&lt;p&gt;Welcome to the future. Welcome to 2015.&lt;/p&gt;
 </description>
     </item>
     
@@ -64,7 +68,7 @@
 &lt;p&gt;&lt;img src=&#34;/assets/img/nosql-kl/01/sponsors.png&#34; alt=&#34;sponsors&#34; /&gt;
 &lt;/p&gt;
 
-&lt;h2 id=&#34;toc_0&#34;&gt;So what went-down on that fateful night where history was made&amp;hellip;?&lt;/h2&gt;
+&lt;h2 id=&#34;so-what-went-down-on-that-fateful-night-where-history-was-made:2fec7abcf0acefb7250e7f3e6939cd91&#34;&gt;So what went-down on that fateful night where history was made&amp;hellip;?&lt;/h2&gt;
 
 &lt;p&gt;We started the evening by first covering our official mission statement:&lt;/p&gt;
 
