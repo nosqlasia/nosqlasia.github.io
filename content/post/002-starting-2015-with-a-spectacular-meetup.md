@@ -15,7 +15,7 @@ Our spectacular speakers and agenda for the evening includes:
 * __20:30 to 21:00__ - [Rickard Oberg](https://twitter.com/rickardoberg) (Neo4j)<br />Graph Database Use-Cases and Cypher Syntax
 * __21:00 to 21:30__ - [Chris Hampartsoumian](https://twitter.com/chrishampart) (Amazon)<br />Introducing DynamoDB and Its Users
 
-> [__Limited seating - please book your place by visiting  Eventbrite__](https://www.eventbrite.com/e/nosql-asia-presents-an-evening-with-nosql-tickets-15001711523)
+> [__Limited seating - click here to book your place on  Eventbrite__](https://www.eventbrite.com/e/nosql-asia-presents-an-evening-with-nosql-tickets-15001711523)
 
 With two international speakers coming-in from Singapore and two that reside here in Kuala Lumpur ready to talk about the technicalities and practical use-cases for NoSQL technology. This will be an awesome opportunity for those that have always relied on MySQL and similar databases for their web projects to see why so many developers are leaning towards different data types such as graphs, key-value stores or JSON documents.
 
@@ -32,3 +32,5 @@ We've popped-up here and there over the past year or so whilst helping with Big 
 > Discuss / share the event on [Facebook](https://www.facebook.com/events/1556753981209665/)
 
 Welcome to the future. Welcome to 2015.
+
+Hope to see you at the [BIG Event](https://www.eventbrite.com/e/nosql-asia-presents-an-evening-with-nosql-tickets-15001711523) on Thursdsy the 29th of January.
