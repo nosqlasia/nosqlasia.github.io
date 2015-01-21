@@ -1,6 +1,7 @@
 ---
 date: 2014-12-17
 title: NoSQL Asia Starts 2015 with a Full House in KL on January 29th
+description: It's been over a year since we had our last dedicated NoSQL meet-up, and since they say that the best things in life are worth the wait, it's once again proven true when looking at the line-up we have planned for January the 29th, 2015.
 ---
 
 It's been over a year since we had our last dedicated NoSQL meet-up, and since they say that the best things in life are worth the wait, it's once again proven true when looking at the line-up we have planned for January the 29th, 2015. __Speaking of which, you'll need to book quickly as we're already nearing peak capacity and haven't even published this blog post yet!__
