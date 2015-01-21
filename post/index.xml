@@ -3,7 +3,7 @@
   <channel>
       <title>Posts on NoSQL Asia </title>
       <generator uri="https://hugo.spf13.com">Hugo</generator>
-    <link>http://localhost:1313/post/index.xml/</link>
+    <link>http://nosqlasia.github.io/post/index.xml/</link>
     <language>en-us</language>
     <author>NoSQL Asia</author>
     
@@ -11,10 +11,10 @@
     
     <item>
       <title>NoSQL Asia Starts 2015 with a Full House in KL on January 29th</title>
-      <link>http://localhost:1313/blog/nosql-asia-starts-2015-with-a-full-house-in-kl-on-january-29th/</link>
+      <link>http://nosqlasia.github.io/blog/nosql-asia-starts-2015-with-a-full-house-in-kl-on-january-29th/</link>
       <pubDate>Wed, 17 Dec 2014 00:00:00 UTC</pubDate>
       <author>NoSQL Asia</author>
-      <guid>http://localhost:1313/blog/nosql-asia-starts-2015-with-a-full-house-in-kl-on-january-29th/</guid>
+      <guid>http://nosqlasia.github.io/blog/nosql-asia-starts-2015-with-a-full-house-in-kl-on-january-29th/</guid>
       <description>&lt;p&gt;It&amp;rsquo;s been over a year since we had our last dedicated NoSQL meet-up, and since they say that the best things in life are worth the wait, it&amp;rsquo;s once again proven true when looking at the line-up we have planned for January the 29th, 2015. &lt;strong&gt;Speaking of which, you&amp;rsquo;ll need to book quickly as we&amp;rsquo;re already nearing peak capacity and haven&amp;rsquo;t even published this blog post yet!&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;Our spectacular speakers and agenda for the evening includes:&lt;/p&gt;
@@ -60,10 +60,10 @@
     
     <item>
       <title>1st NoSQL Asia Event in Malaysia</title>
-      <link>http://localhost:1313/blog/1st-nosql-asia-event-in-malaysia/</link>
+      <link>http://nosqlasia.github.io/blog/1st-nosql-asia-event-in-malaysia/</link>
       <pubDate>Thu, 25 Apr 2013 00:00:00 UTC</pubDate>
       <author>NoSQL Asia</author>
-      <guid>http://localhost:1313/blog/1st-nosql-asia-event-in-malaysia/</guid>
+      <guid>http://nosqlasia.github.io/blog/1st-nosql-asia-event-in-malaysia/</guid>
       <description>
 
 &lt;p&gt;Would firstly like to thank all those that attended and made such a wonderful evening possible. Without you and your interest in life beyond SQL, we would not have been able to launch our community initiative in style. Your thirst for knowledge inspires us to do more! Let&amp;rsquo;s also take this opportunity to thank our generous sponsors (&lt;a href=&#34;http://geomash.com/&#34;&gt;GeoMash&lt;/a&gt;, &lt;a href=&#34;http://mindvalley.com/&#34;&gt;Mindvalley&lt;/a&gt;, &lt;a href=&#34;http://acunu.com/&#34;&gt;Acunu&lt;/a&gt; and &lt;a href=&#34;http://planyourwedding.my/&#34;&gt;Plan Your Wedding&lt;/a&gt;), without which, we would not have been able to have such fabulous food, not to mention buy prizes to bribe you into talking to us during the Q&amp;amp;A sessions!&lt;/p&gt;
