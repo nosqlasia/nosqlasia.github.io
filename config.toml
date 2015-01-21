@@ -1,7 +1,7 @@
 baseurl = "http://nosqlasia.github.io/"
 title = "NoSQL Asia"
 languageCode = "en-us"
-# disqusShortname = "your_disqus_shortname" # Optional, enable Disqus integration
+disqusShortname = "nosqlasia" # Optional, enable Disqus integration
 MetaDataFormat = "yaml"
 
 [author]
