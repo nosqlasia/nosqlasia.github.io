@@ -33,4 +33,4 @@ We've popped-up here and there over the past year or so whilst helping with Big 
 
 Welcome to the future. Welcome to 2015.
 
-Hope to see you at the [BIG Event](https://www.eventbrite.com/e/nosql-asia-presents-an-evening-with-nosql-tickets-15001711523) on Thursdsy the 29th of January.
+Hope to see you at the [BIG Event](https://www.eventbrite.com/e/nosql-asia-presents-an-evening-with-nosql-tickets-15001711523) on Thursday the 29th of January.
