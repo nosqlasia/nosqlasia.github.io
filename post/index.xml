@@ -1,15 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on NoSQL Asia</title>
-    <link>http://nosqlasia.github.io/post/</link>
-    <description>Recent content in Posts on NoSQL Asia</description>
-    <generator>Hugo -- gohugo.io</generator>
+      <title>Posts on NoSQL Asia </title>
+      <generator uri="https://hugo.spf13.com">Hugo</generator>
+    <link>http://nosqlasia.github.io/post/index.xml/</link>
     <language>en-us</language>
     <author>NoSQL Asia</author>
     
-    <lastBuildDate>Wed, 17 Dec 2014 00:00:00 UTC</lastBuildDate>
-    <atom:link href="http://nosqlasia.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <updated>Wed, 17 Dec 2014 00:00:00 UTC</updated>
     
     <item>
       <title>NoSQL Asia Starts 2015 with a Full House in KL on January 29th</title>
@@ -33,6 +31,9 @@
 &lt;p&gt;&lt;a href=&#34;https://www.eventbrite.com/e/nosql-asia-presents-an-evening-with-nosql-tickets-15001711523&#34;&gt;&lt;strong&gt;Limited seating - click here to book your place on  Eventbrite&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 
+&lt;p&gt;&lt;img src=&#34;/assets/img/starting-2015/nosqlevent.png&#34; alt=&#34;Mindvalley Hall of Awesomeness&#34; /&gt;
+&lt;/p&gt;
+
 &lt;p&gt;With two international speakers coming-in from Singapore and two that reside here in Kuala Lumpur ready to talk about the technicalities and practical use-cases for NoSQL technology. This will be an awesome opportunity for those that have always relied on MySQL and similar databases for their web projects to see why so many developers are leaning towards different data types such as graphs, key-value stores or JSON documents.&lt;/p&gt;
 
 &lt;p&gt;More importantly, this will provide you with the opportunity to hear from people working on the core products they are promoting and give you the chance to network with other like-minded individuals that are using these technologies in production. It&amp;rsquo;s also a good place to grab a slice of pizza after work and hang-out in one of the most awesome meeting spaces in KL and learn more about the &lt;a href=&#34;http://www.projectrenaissance.com/&#34;&gt;Project Renaissance&lt;/a&gt; movement being managed by &lt;a href=&#34;http://mindvalley.com&#34;&gt;Mindvalley&lt;/a&gt;.&lt;/p&gt;
@@ -53,7 +54,7 @@
 
 &lt;p&gt;Welcome to the future. Welcome to 2015.&lt;/p&gt;
 
-&lt;p&gt;Hope to see you at the &lt;a href=&#34;https://www.eventbrite.com/e/nosql-asia-presents-an-evening-with-nosql-tickets-15001711523&#34;&gt;BIG Event&lt;/a&gt; on Thursdsy the 29th of January.&lt;/p&gt;
+&lt;p&gt;Hope to see you at the &lt;a href=&#34;https://www.eventbrite.com/e/nosql-asia-presents-an-evening-with-nosql-tickets-15001711523&#34;&gt;BIG Event&lt;/a&gt; on Thursday the 29th of January.&lt;/p&gt;
 </description>
     </item>
     
@@ -70,7 +71,7 @@
 &lt;p&gt;&lt;img src=&#34;/assets/img/nosql-kl/01/sponsors.png&#34; alt=&#34;sponsors&#34; /&gt;
 &lt;/p&gt;
 
-&lt;h2 id=&#34;so-what-went-down-on-that-fateful-night-where-history-was-made:2fec7abcf0acefb7250e7f3e6939cd91&#34;&gt;So what went-down on that fateful night where history was made&amp;hellip;?&lt;/h2&gt;
+&lt;h2 id=&#34;toc_0&#34;&gt;So what went-down on that fateful night where history was made&amp;hellip;?&lt;/h2&gt;
 
 &lt;p&gt;We started the evening by first covering our official mission statement:&lt;/p&gt;
 
