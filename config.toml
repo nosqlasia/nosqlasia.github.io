@@ -39,7 +39,7 @@ MetaDataFormat = "yaml"
 
     # Metadata used to drive integrations.
     googleAuthorship = "Your Google+ profile ID"
-    googleAnalytics = "Your Google Analytics tracking code"
+    googleAnalytics = "UA-58840307-1"
     gravatarHash = "d0e16a7a5865cc10d8d9d22874ab9a85"
 
     # Sidebar social links, avoid enabling too many of these if possible.
