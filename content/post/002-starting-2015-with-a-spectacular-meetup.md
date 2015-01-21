@@ -17,7 +17,7 @@ Our spectacular speakers and agenda for the evening includes:
 
 > [__Limited seating - click here to book your place on  Eventbrite__](https://www.eventbrite.com/e/nosql-asia-presents-an-evening-with-nosql-tickets-15001711523)
 
-![Mindvalley Hall of Awesomeness](/assets/img/starting-2015/nosqlevent.png)
+[![Mindvalley Hall of Awesomeness](/assets/img/starting-2015/nosqlevent.png)](https://www.eventbrite.com/e/nosql-asia-presents-an-evening-with-nosql-tickets-15001711523)
 
 With two international speakers coming-in from Singapore and two that reside here in Kuala Lumpur ready to talk about the technicalities and practical use-cases for NoSQL technology. This will be an awesome opportunity for those that have always relied on MySQL and similar databases for their web projects to see why so many developers are leaning towards different data types such as graphs, key-value stores or JSON documents.
 
