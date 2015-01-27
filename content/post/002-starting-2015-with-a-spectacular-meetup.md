@@ -14,7 +14,7 @@ Our spectacular speakers and agenda for the evening includes:
 * __19:45 to 20:00__ - [Tristan Gomez](https://twitter.com/parasquid) (Mindvalley)<br />An Introduction / Overview of NoSQL
 * __20:00 to 20:30__ - [Matias Cascallares](https://twitter.com/mcascallares) (MongoDB)<br />Document Schemas and MongoDB Use-Cases
 * __20:30 to 21:00__ - [Rickard Oberg](https://twitter.com/rickardoberg) (Neo4j)<br />Graph Database Use-Cases and Cypher Syntax
-* __21:00 to 21:30__ - [Chris Hampartsoumian](https://twitter.com/chrishampart) (Amazon)<br />Introducing DynamoDB and Its Users
+* __21:00 to 21:30__ - [Blair Layton](https://sg.linkedin.com/in/blairlayton) (Amazon)<br />Introducing DynamoDB and Its Users
 
 > [__Limited seating - click here to book your place on  Eventbrite__](https://www.eventbrite.com/e/nosql-asia-presents-an-evening-with-nosql-tickets-15001711523)
 
